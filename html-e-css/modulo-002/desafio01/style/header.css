@@ -1,0 +1,38 @@
+header{
+    background-image: linear-gradient(to bottom, var(--color03), var(--color05));
+}
+
+nav{
+    background-color: var(--color05);
+    padding-bottom: 1%;
+}
+
+.header-h1{
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    word-break: break-all;
+    font-family: var(--font03);
+    font-size: 2em;
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.466);
+}
+
+.header-paragraph{
+    margin: auto;
+    text-align: center;
+    padding: 3%;
+    width:  32%;
+    color: white;
+    word-break: keep-all;
+}
+
+.header-tag-a{
+    color: white;
+    margin-left: 1%;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+}
