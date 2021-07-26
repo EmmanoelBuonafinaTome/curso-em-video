@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h1, p{
+    text-align: center;
+    color: white;
+}
+
+.container-2{
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: white;
+}
